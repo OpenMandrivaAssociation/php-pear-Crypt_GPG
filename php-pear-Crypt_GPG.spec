@@ -5,7 +5,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version: 	1.3.2
-Release:	%mkrel 4
+Release:	1
 Summary: 	GNU Privacy Guard (GnuPG)
 License: 	LGPL
 Group: 		Development/PHP
