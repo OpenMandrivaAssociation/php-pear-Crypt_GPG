@@ -10,7 +10,7 @@ Summary: 	GNU Privacy Guard (GnuPG)
 License: 	LGPL
 Group: 		Development/PHP
 Source0:	http://pear.phpunit.de/get/%upstream_name-%{version}.tgz
-URL: 		http://pear.php.net/package/Crypt_GPG
+URL: 		https://pear.php.net/package/Crypt_GPG
 BuildRequires: 	php-pear >= 1.4.7
 Requires(pre):	php-pear
 BuildArch: noarch
